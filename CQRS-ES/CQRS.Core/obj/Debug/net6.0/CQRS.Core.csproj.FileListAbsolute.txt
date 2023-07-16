@@ -1,0 +1,12 @@
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.deps.json
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.dll
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.pdb
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.AssemblyReference.cache
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfoInputs.cache
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfo.cs
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.CoreCompileInputs.cache
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.dll
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\obj\Debug\net6.0\refint\CQRS.Core.dll
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.pdb
+D:\backup\repos\SocialMediaPost.Microservices\CQRS-ES\CQRS.Core\obj\Debug\net6.0\ref\CQRS.Core.dll

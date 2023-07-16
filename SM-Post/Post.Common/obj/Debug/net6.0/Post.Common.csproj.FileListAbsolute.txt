@@ -1,0 +1,15 @@
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.deps.json
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.dll
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.pdb
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.dll
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.pdb
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.AssemblyReference.cache
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfoInputs.cache
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfo.cs
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CoreCompileInputs.cache
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CopyComplete
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.dll
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\obj\Debug\net6.0\refint\Post.Common.dll
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.pdb
+D:\backup\repos\SocialMediaPost.Microservices\SM-Post\Post.Common\obj\Debug\net6.0\ref\Post.Common.dll
